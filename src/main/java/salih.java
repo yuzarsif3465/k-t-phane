@@ -2,6 +2,7 @@ public class salih {
     int sss;
 
     public int getSss() {
+        System.out.println("calış");
         return sss;
     }
 
